@@ -55,7 +55,7 @@
                                     Providing on-demand point-to-point transportation within the
                                     city limits and surrounding area.
                                 </p>
-                                <a href="#">+ READ MORE</a>
+                                <a href="services-details.php">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                                     to and from airports. Offering reliable and timely pick-up
                                     and drop-off services to and from airports.
                                 </p>
-                                <a href="#">+ READ MORE</a>
+                                <a href="services-details.php">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                                     celebrities, featuring branded luxury vehicles for a premium
                                     experience.
                                 </p>
-                                <a href="#">+ READ MORE</a>
+                                <a href="services-details.php">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                                     with scheduled appointments, providing convenience and
                                     punctuality.
                                 </p>
-                                <a href="#">+ READ MORE</a>
+                                <a href="services-details.php">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                                     students, ensuring punctual pick-up and drop-off for
                                     school-related activities.
                                 </p>
-                                <a href="#">+ READ MORE</a>
+                                <a href="services-details.php">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -154,9 +154,84 @@
                                     Tailored transportation solutions for businesses, ensuring
                                     efficient and seamless travel for employees.
                                 </p>
-                                <a href="#">+ READ MORE</a>
+                                <a href="services-details.php">+ READ MORE</a>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--------------booking html starts-------- -->
+    <section class="booked">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="booked-content">
+                        <h3 class="welcome-heading" data-aos="fade-down">
+                            Call Us Now <span>Book Your Cab </span>For Your Next Ride!
+                        </h3>
+                        <p class="all-p" data-aos="fade-right">
+                            Life is a journey, and sometimes you need a cab to take you
+                            places you've never been before.
+                        </p>
+                        <div class="cta-call" data-aos="fade-up">
+                            <i class="fa-solid fa-phone-volume"></i>
+                            <p class="all-p">
+                                <span>Call Us Now</span><a href="tel:403-351-2200">403-351-2200</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="booked-img"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!---------booking html ends-------- -->
+
+    <!-- offered we serve -->
+    <section class="services-offer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="services-offer-box">
+                        <h3>Services That <span>We Offer</span></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor itaque deserunt, corporis
+                            veniam
+                            libero recusandae placeat inventore a voluptatum suscipit nobis dolores repellendus debitis
+                            tempore fugit, illo quaerat veritatis aliquam?</p>
+                        <strong class="mt-2 mb-0 justify-content-center">
+                            <a href="#" class="btn btn-primary py-2 mr-1">Book A Cab</a>
+                        </strong>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="services-offer-box">
+                        <ul class="about-us-page-ul">
+                            <li><i class="fa-solid fa-check"></i> From Airdrie To Calgary Airport </li>
+                            <li><i class="fa-solid fa-check"></i> Delivery Services</li>
+                            <li><i class="fa-solid fa-check"></i> 10% off Senior and preffered clients</li>
+                            <li><i class="fa-solid fa-check"></i> Courteous & Friendly drivers</li>
+                            <li><i class="fa-solid fa-check"></i> Online Booking System</li>
+                            <li><i class="fa-solid fa-check"></i> Timed Calls</li>
+                            <li><i class="fa-solid fa-check"></i> Special Events</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="services-offer-box">
+                        <ul class="about-us-page-ul">
+                            <li><i class="fa-solid fa-check"></i> Local Airdrie Taxi Service</li>
+                            <li><i class="fa-solid fa-check"></i> Delivery Services</li>
+                            <li><i class="fa-solid fa-check"></i> 10% Off Service an Prefered Clients</li>
+                            <li><i class="fa-solid fa-check"></i> Courteous & Friendly drivers</li>
+                            <li><i class="fa-solid fa-check"></i> Online Booking System</li>
+                            <li><i class="fa-solid fa-check"></i> Timed Calls</li>
+                            <li><i class="fa-solid fa-check"></i> Special Events</li>
+                        </ul>
                     </div>
                 </div>
             </div>

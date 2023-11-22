@@ -23,6 +23,9 @@
   <!-- <link rel="stylesheet" href="css/flaticon.css" /> -->
   <link rel="stylesheet" href="css/icomoon.css" />
   <link rel="stylesheet" href="css/style.css" />
+  <!-- FavIcon -->
+  <link rel="icon" type="images/png" href="images/logo.png">
+  <!-- FavIcon -->
 </head>
 
 <body>
@@ -329,7 +332,7 @@
                   Providing on-demand point-to-point transportation within the
                   city limits and surrounding area.
                 </p>
-                <a href="#">+ READ MORE</a>
+                <a href="services-details.php">+ READ MORE</a>
               </div>
             </div>
           </div>
@@ -349,7 +352,7 @@
                   to and from airports. Offering reliable and timely pick-up
                   and drop-off services to and from airports.
                 </p>
-                <a href="#">+ READ MORE</a>
+                <a href="services-details.php">+ READ MORE</a>
               </div>
             </div>
           </div>
@@ -369,7 +372,7 @@
                   celebrities, featuring branded luxury vehicles for a premium
                   experience.
                 </p>
-                <a href="#">+ READ MORE</a>
+                <a href="services-details.php">+ READ MORE</a>
               </div>
             </div>
           </div>
@@ -389,7 +392,7 @@
                   with scheduled appointments, providing convenience and
                   punctuality.
                 </p>
-                <a href="#">+ READ MORE</a>
+                <a href="services-details.php">+ READ MORE</a>
               </div>
             </div>
           </div>
@@ -409,7 +412,7 @@
                   students, ensuring punctual pick-up and drop-off for
                   school-related activities.
                 </p>
-                <a href="#">+ READ MORE</a>
+                <a href="services-details.php">+ READ MORE</a>
               </div>
             </div>
           </div>
@@ -428,7 +431,7 @@
                   Tailored transportation solutions for businesses, ensuring
                   efficient and seamless travel for employees.
                 </p>
-                <a href="#">+ READ MORE</a>
+                <a href="services-details.php">+ READ MORE</a>
               </div>
             </div>
           </div>
@@ -437,6 +440,9 @@
       <!-- <div class="option-serv text-center">
           <a href="#">+ VIEW MORE</a>
         </div> -->
+        <div class="btn-view">
+          <a href="service-main.php" class="btn btn-primary py-2 mr-1 view-more-btn">View More +</a>
+        </div>
     </div>
   </section>
   <!--------------booking html starts-------- -->
@@ -455,8 +461,7 @@
             <div class="cta-call" data-aos="fade-up">
               <i class="fa-solid fa-phone-volume"></i>
               <p class="all-p">
-                <span>Call Us Now</span><a href="tel:403-351-2200">403-351-2200<br /></a><a
-                  href="tel:403-809-5353">403-809-5353</a>
+                <span>Call Us Now</span><a href="tel:403-351-2200">403-351-2200</a>
               </p>
             </div>
           </div>

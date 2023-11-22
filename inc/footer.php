@@ -120,7 +120,9 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row" style="
+    border-top: 1px solid;
+    padding-top: 20px;">
             <div class="col-md-6">
                 <p>All Rights Reserved 2023 Airdrie City Taxi</p>
             </div>
