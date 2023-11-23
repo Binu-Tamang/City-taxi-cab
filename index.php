@@ -480,11 +480,12 @@
       <div class="row">
         <div class="col-md-7">
           <div class="VideoContent text-center">
-            <video controls loop muted playsinline>
+            <!-- <video controls loop muted playsinline>
               <source src="images/video-ads.mp4" type="video/mp4" />
-            </video>
+            </video> -->
           </div>
         </div>
+        
         <div class="col-md-5">
           <div class="facebook-link">
             <iframe

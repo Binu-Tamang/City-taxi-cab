@@ -51,7 +51,7 @@
                                     <a href="service-main.php" class="nav-link">Services</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">Areas We Serve</a>
+                                    <a href="area-serve.php" class="nav-link">Areas We Serve</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="fleets.php" class="nav-link">Fleets</a>
