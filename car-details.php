@@ -34,7 +34,11 @@
     <!-- header part ends -->
 
     <!-- banner and headre page  -->
-    <?php $page_name = 'Our Fleets' ?>
+    <?php
+
+    $page_name = $_GET['title'] ?? "Car Details";
+
+    ?>
     <?php include('inc/page-banner.php') ?>
     <!-- banner and header page -->
 
@@ -63,7 +67,7 @@
 
                 <div class="col-md-4">
                     <div class="car-one-details">
-                        <h2 class="topic-h">Mercedes-Benz A-Class</h2>
+                        <h2 class="topic-h"><?php echo $page_name ?></h2>
                         <p>
                             Lorem ipsum dolor sit do amet, consectetur, adipiscing
                             elit, sed

@@ -83,15 +83,18 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Have a Questions?</h2>
                     <div class="block-23 mb-3">
-                        <ul>
+                        <ul class="footer-ul">
                             <li>
                                 <span class="icon icon-map-marker"></span>
                                 <span class="text-white">1330 Prairie Springs Pk SW Airdrie AB T4B 0E5</span>
                             </li>
                             <li>
+                                <span class="icon icon-phone"></span>
                                 <a href="tel:403-809-5353">
-                                    <span class="icon icon-phone"></span>
-                                    <span class="text">403 351 2200</span>
+                                    403-809-5353
+                                </a>
+                                <a href="tel:403 351 2200">
+                                    403 351 2200
                                 </a>
                             </li>
                             <li>
@@ -160,6 +163,4 @@
 <script src="js/bootstrap-datepicker.js"></script>
 <script src="js/jquery.timepicker.min.js"></script>
 <script src="js/scrollax.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-<script src="js/google-map.js"></script>
 <script src="js/main.js"></script>

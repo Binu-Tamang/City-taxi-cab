@@ -327,4 +327,36 @@ AOS.init({
 })(jQuery);
 
 
-// popup js
+//reserv type choose
+$('.outtaHere').change(function(){
+	"use strict";
+    var selected = $(this).find(':selected');
+    $('.reservtype').hide();
+   $('.'+selected.val()).show(); 
+    $('.optionvalue').html(selected.html());
+});
+
+//airline type choose
+$('.airportifsel').change(function(){
+	"use strict";
+    var selected = $(this).find(':selected');
+    $('.airlineifot').hide();
+   $('.'+selected.val()).show(); 
+    $('.optionvalue').html(selected.html());
+});
+//airline type choose
+$('.airportifsel1').change(function(){
+	"use strict";
+    var selected = $(this).find(':selected');
+    $('.airlineifot1').hide();
+   $('.'+selected.val()).show(); 
+    $('.optionvalue').html(selected.html());
+});
+//airline type choose
+$('.airportifsel2').change(function(){
+	"use strict";
+    var selected = $(this).find(':selected');
+    $('.airlineifot2').hide();
+   $('.'+selected.val()).show(); 
+    $('.optionvalue').html(selected.html());
+});

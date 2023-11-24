@@ -45,63 +45,63 @@
             <div class="box-area-serve">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/1.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Dallas</a>
+                            <a class="serve-a" href="area-details.php?title=Dallas"><i class="fa-solid fa-location-dot"></i> Dallas</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/2.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> DFW</a>
+                            <a class="serve-a" href="area-details.php?title=DFW"><i class="fa-solid fa-location-dot"></i> DFW</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/3.png" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Fort Worth</a>
+                            <a class="serve-a" href="area-details.php?title=Fort Worth"><i class="fa-solid fa-location-dot"></i> Fort Worth</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/4.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Frisco</a>
+                            <a class="serve-a" href="area-details.php?title=Frisco"><i class="fa-solid fa-location-dot"></i> Frisco</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/5.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Richardson</a>
+                            <a class="serve-a" href="area-details.php?title=Richardson"><i class="fa-solid fa-location-dot"></i> Richardson</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/6.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Garland</a>
+                            <a class="serve-a" href="area-details.php?title=Garland"><i class="fa-solid fa-location-dot"></i> Garland</a>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/1.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Grand Prairie</a>
+                            <a class="serve-a" href="area-details.php?title=Grand Prairie"><i class="fa-solid fa-location-dot"></i> Grand Prairie</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/2.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Denton</a>
+                            <a class="serve-a" href="area-details.php?title=Denton"><i class="fa-solid fa-location-dot"></i> Denton</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/3.png" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Grapevine</a>
+                            <a class="serve-a" href="area-details.php?title=Grapevine"><i class="fa-solid fa-location-dot"></i> Grapevine</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/4.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Mckinney</a>
+                            <a class="serve-a" href="area-details.php?title=Mckinney"><i class="fa-solid fa-location-dot"></i> Mckinney</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/5.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Kellar</a>
+                            <a class="serve-a" href="area-details.php?title=Kellar"><i class="fa-solid fa-location-dot"></i> Kellar</a>
                         </div>
 
-                        <div class="col-md-2">
+                        <div class="col-md-2 area-wrap-box">
                             <img class="serve-img" src="images/random/6.jpg" alt="area">
-                            <a class="serve-a" href="#"><i class="fa-solid fa-location-dot"></i> Lewisville</a>
+                            <a class="serve-a" href="area-details.php?title=Lewisville"><i class="fa-solid fa-location-dot"></i> Lewisville</a>
                         </div>
                     </div>
                 </div>

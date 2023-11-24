@@ -55,7 +55,7 @@
                                     Providing on-demand point-to-point transportation within the
                                     city limits and surrounding area.
                                 </p>
-                                <a href="services-details.php">+ READ MORE</a>
+                                <a href="services-details.php?title=Taxi Services">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                                     to and from airports. Offering reliable and timely pick-up
                                     and drop-off services to and from airports.
                                 </p>
-                                <a href="services-details.php">+ READ MORE</a>
+                                <a href="services-details.php?title=Airport Transportation">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                                     celebrities, featuring branded luxury vehicles for a premium
                                     experience.
                                 </p>
-                                <a href="services-details.php">+ READ MORE</a>
+                                <a href="services-details.php?title=Executive Travel">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                                     with scheduled appointments, providing convenience and
                                     punctuality.
                                 </p>
-                                <a href="services-details.php">+ READ MORE</a>
+                                <a href="services-details.php?title=Appointment Pick and Drop">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                                     students, ensuring punctual pick-up and drop-off for
                                     school-related activities.
                                 </p>
-                                <a href="services-details.php">+ READ MORE</a>
+                                <a href="services-details.php?title=School Run">+ READ MORE</a>
                             </div>
                         </div>
                     </div>
@@ -154,7 +154,7 @@
                                     Tailored transportation solutions for businesses, ensuring
                                     efficient and seamless travel for employees.
                                 </p>
-                                <a href="services-details.php">+ READ MORE</a>
+                                <a href="services-details.php?title=Corporate Accounts">+ READ MORE</a>
                             </div>
                         </div>
                     </div>

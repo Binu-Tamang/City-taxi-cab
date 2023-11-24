@@ -34,7 +34,11 @@
     <!-- header part ends -->
 
     <!-- banner and headre page  -->
-    <?php $page_name = ' Services' ?>
+    <?php
+
+    $page_name = $_GET['title'] ?? "Services";
+
+    ?>
     <?php include('inc/page-banner.php') ?>
     <!-- banner and header page -->
 
@@ -46,21 +50,21 @@
                     <div class="services-details-menu">
                         <strong>Service Menu</strong>
                         <ul class="services-menu-list">
-                            <li><a aria-label="about the services we provided" href="services-details.php"><i
+                            <li><a aria-label="about the services we provided" href="services-details.php?title=Taxi Services"><i
                                         class="fa-solid fa-taxi"></i> Taxi Services</a>
                             </li>
-                            <li><a aria-label="about the services we provided" href="service-two.php"><i
+                            <li><a aria-label="about the services we provided" href="services-details.php?title=Airport Transportation"><i
                                         class="fa-solid fa-plane-departure"></i> Airport Transportation</a>
                             </li>
-                            <li><a aria-label="about the services we provided" href="service-three.php"><i
+                            <li><a aria-label="about the services we provided" href="services-details.php?title=Executive Travel"><i
                                         class="fa-solid fa-plane-departure"></i> Executive Travel</a></li>
-                            <li><a aria-label="about the services we provided" href="service-four.php"><i
+                            <li><a aria-label="about the services we provided" href="services-details.php?title=Appointment Pick and Drop"><i
                                         class="fa-solid fa-calendar-days"></i> Appointment Pick and Drop</a>
                             </li>
-                            <li><a aria-label="about the services we provided" href="service-five.php"><i
+                            <li><a aria-label="about the services we provided" href="services-details.php?title=School Run"><i
                                         class="fa-solid fa-school"></i> School Run</a>
                             </li>
-                            <li><a aria-label="about the services we provided" href="service-six.php"><i
+                            <li><a aria-label="about the services we provided" href="services-details.php?title=Corporate Accounts"><i
                                         class="fa-solid fa-file-invoice"></i> Corporate Accounts</a>
                             </li>
                         </ul>
@@ -69,7 +73,7 @@
                 <div class="col-md-8 order-1 order-lg-2">
                     <div class="img-details-services">
                         <img src="images/two-user.jpg" alt="two peoples">
-                        <h2 class="topic-h">Taxi Services</h2>
+                        <h2 class="topic-h"><?php echo $page_name ?></h2>
                         <p>At Airdrie City Taxi we provide a safe and friendly environment to the passenger. Regardless
                             of the fact whether you are want to catch a flight in time or want to attend an important
                             event or meeting, our licensed Airdrie taxi service is the most affordable choice for you.

@@ -3,7 +3,7 @@
     <div class="bgwrap">
         <div id="top_header" class="row">
             <div class="container">
-                <div class="gx-0 col-lg-12">
+                <div class="gx-0 col-lg-12 header-top-up">
                     <div class="d-lg-flex justify-content-end py-2">
                         <div class="d-lg-flex justify-content-center">
                             <div class="h-100 d-inline-flex align-items-center me-4">
@@ -61,7 +61,7 @@
                                         id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">Contact
                                         Us</a>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                        <li><a class="dropdown-item" href="#">Reservation</a></li>
+                                        <li><a class="dropdown-item" href="reservation.php">Reservation</a></li>
                                     </ul>
                                 </li>
                             </ul>

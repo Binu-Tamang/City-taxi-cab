@@ -67,7 +67,7 @@
                                 </ul>
 
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Mercedes-Benz E-Class" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                     </li>
                                 </ul>
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                                     </li>
                                 </ul>
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Audi A6" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                                     </li>
                                 </ul>
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                                 </ul>
 
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Mercedes-Benz E-Class" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -225,7 +225,7 @@
                                     </li>
                                 </ul>
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -256,7 +256,7 @@
                                     </li>
                                 </ul>
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                                     </li>
                                 </ul>
                                 <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-one.php" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
