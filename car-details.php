@@ -50,9 +50,9 @@
                     <div class="car-img">
                         <img src="images/working-user.jpg" alt="working user">
                         <div class="car-inside-img">
-                            <img src="images/car1.jpg" alt="car">
+                            <img class="first-img-car" src="images/car1.jpg" alt="car">
                             <img class="inside-img" src="images/car-seats.jpg" alt="car seats">
-                            <img src="images/two-user.jpg" alt="two peoples">
+                            <img class="third-img-car" src="images/two-user.jpg" alt="two peoples">
                         </div>
                     </div>
                     <div class="car-img-details">

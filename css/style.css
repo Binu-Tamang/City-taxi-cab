@@ -3945,7 +3945,7 @@ input[type="button"].btn-block {
 .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #007bff;
+  background-color: #eb1b22;
 }
 
 .dropdown-item.disabled,
@@ -13481,14 +13481,14 @@ span.qodef-currency {
 }
 
 .form-control {
-  height: 52px !important;
+  height: auto !important;
   background: #fff !important;
   color: #000000 !important;
   font-size: 18px;
   border-radius: 5px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  margin: 6px;
+  /* margin: 6px; */
 }
 
 .form-control:focus,
@@ -14936,6 +14936,7 @@ p a.btn.btn-primary.py-3.px-4 {
   top: 0px;
   left: 0px;
   margin: 0px;
+  box-shadow: 0px 1px 10px 1px rgb(0 0 0 / 35%);
 }
 p.serviceDes {
   display: -webkit-box;
@@ -15449,7 +15450,7 @@ section.main-three-box i {
 .page-header {
   background: linear-gradient(#21252982, #5f64694f),
     url(../images/ads-banner.png);
-  height: 250px;
+  /* height: 250px; */
   text-align: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -15930,9 +15931,9 @@ section.area-serve {
   margin: 2rem 0;
 }
 .box-area-serve img {
-  width: 200px;
+  width: 100%;
   height: 140px;
-  padding: 0 15px;
+  /* padding: 0 15px; */
   margin: 2rem 0;
   transition: all 0.5s ease;
 }
@@ -15940,6 +15941,7 @@ a.serve-a {
   color: #212529;
   font-size: 18px;
   font-weight: 500;
+  display: block;
 }
 
 a.serve-a:hover {
@@ -16535,12 +16537,12 @@ section.about-us-book.serve-details-book {
 }
 .reservbodywrap p {
   font-family: Montserrat;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 400;
 }
 .reservbodywrap span {
   font-family: montserrat;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 400;
   font-style: italic;
   display: block;
@@ -16610,9 +16612,10 @@ section.about-us-book.serve-details-book {
 .reservtype .formfield_submit input {
   width: 200px;
   position: relative;
+  margin: 12px 0 ;
   z-index: 2;
   height: 40px;
-  color: var(--bg-color1);
+  color: #eb1b26;
   background-color: transparent;
   background: linear-gradient(to right, #fff 50%, var(--bg-color1) 50%)
     no-repeat scroll right bottom / 10% 100% rgba(255, 255, 255, 0);
@@ -16623,9 +16626,9 @@ section.about-us-book.serve-details-book {
   font-weight: 600;
 }
 .reservtype .formfield_submit input:hover {
-  color: #fff;
-  background: linear-gradient(to right, #fff 50%, var(--bg-color1) 50%)
-    no-repeat scroll right bottom / 210% 100% rgba(255, 255, 255, 0);
+  color: #000;
+  background: linear-gradient(to right, #eed9da 50%, var(--bg-color1) 50%)
+    no-repeat scroll right bottom / 210% 100% rgb(208 208 208 / 42%);
 }
 .reservtype .formfield_submit i {
   position: absolute;
@@ -16876,6 +16879,9 @@ section.about-us-book.serve-details-book {
 
 /* ======RESPONSIVE ALL HERE====== */
 @media (max-width: 35em) {
+  section.city-taxi-welcome {
+    margin-top: -12rem;
+}
   .gx-0.col-lg-12.header-top-up {
     display: none;
   }
@@ -16893,18 +16899,64 @@ section.about-us-book.serve-details-book {
   }
   a.btn.btn-primary.py-2.mr-1 {
     width: auto !important;
-}
-.col-md-2.area-wrap-box {
-  display: flex;
-  align-items: center;
-  padding-left: 3rem;
-}
+  }
+  .col-md-2.area-wrap-box {
+    /* display: flex; */
+    align-items: center;
+    /* padding-left: 3rem; */
+  }
+  .car-inside-img img {
+    padding: 20px 0;
+    margin: 0 10px !important;
+    width: 100% !important;
+    height: auto;
+  }
+  img.inside-img {
+    margin: 0;
+  }
+  .car-inside-img {
+    display: block;
+  }
 }
 @media (max-width: 561px) {
-  .col-md-2.area-wrap-box{
-    display: flex;
-  align-items: center;
-  padding-left: 1rem;
+  .col-md-2.area-wrap-box {
+    /* display: flex; */
+    align-items: center;
+    /* padding-left: 1rem; */
+  }
+}
+@media (min-width:561px) and (max-width: 545px) {
+  img.inside-img {
+    /* display: none; */
+  }
+  .car-inside-img img {
+    width: 200px !important;
+  }
+  img.first-img-car {
+    padding-right: 12px;
+  }
+}
+@media(min-width:545px) and (max-width:768px){
+  .car-inside-img img{
+    width: 180px !important;
+    height: 200px;
+  }
+}
+@media (min-width:768px) and (max-width: 992px) {
+  .car-inside-img{
+    display: block;
+  }
+  img.first-img-car, img.third-img-car {
+    margin-left: 12px;
+}
+.car-inside-img img{
+  width: 195px !important;
+  height: 225px;
+}
+}
+@media (min-width:990px) and (max-width: 1200px){
+  .car-inside-img img {
+    width: 180px !important;
   }
 }
 section {
@@ -16914,4 +16966,35 @@ a#dropdownMenuButton1 {
   text-align: left;
   padding-left: 20px;
   padding-right: 10px;
+}
+.form-wrap {
+  display: flex;
+}
+input[type="text"] {
+  font-size: 16px;
+  padding: 5px 10px;
+}
+
+input[type="tel"] {
+  font-size: 14px;
+  padding: 5px 10px;
+}
+.contact-us input#name {
+  padding: 10px;
+  margin: 0px 0;
+}
+.contact-us input#phone {
+  padding: 10px;
+  margin: 10px 0;
+}
+.contact-us input#email {
+  margin: 10px 0;
+  font-size: 16px;
+}
+select.outtaHere {
+  padding: 8px;
+}
+.formfield.col-md-12.col-sm-12.col-xs-12 {
+  margin: 0;
+  padding: 0;
 }
