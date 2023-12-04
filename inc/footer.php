@@ -12,8 +12,8 @@
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">
-                        <div class="logo-wrap p-2">
-                            <img src="images/footer-logo.jpg" alt="logo" />
+                        <div class=" p-2 footer-logo">
+                            <img loading="lazy" decoding="async" src="images/footer-logo.jpg" alt="logo" />
                         </div>
                     </h2>
                     <p>
@@ -22,11 +22,11 @@
                         satisfaction. Call Us Todays!
                     </p>
                     <div>
-                        <img id="myImg" class="img-fluid" src="images/visiting-card.jpg" />
+                        <img loading="lazy" decoding="async" id="myImg" class="img-fluid" src="images/visiting-card.jpg" />
                         <!-- <span class="hint">Click on image and see effect</span> -->
                         <div id="myModal" class="modal">
                             <span class="close"></span>
-                            <img class="modal-content" id="img01" />
+                            <img loading="lazy" decoding="async" class="modal-content" id="img01" />
                             <div id="caption"></div>
                         </div>
                     </div>
@@ -108,15 +108,15 @@
                     <div class="pay-cards">
                         <ul>
                             <li>
-                                <a class="payment-img" href="#"><img src="images/mastercard.png" alt="mastercard"
+                                <a class="payment-img" href="#"><img loading="lazy" decoding="async" src="images/mastercard.png" alt="mastercard"
                                         style="width: 53px" /></a>
                             </li>
                             <li>
-                                <a class="payment-img" href="#"><img src="images/visa.png" alt="visacard"
+                                <a class="payment-img" href="#"><img loading="lazy" decoding="async" src="images/visa.png" alt="visacard"
                                         style="width: 48px" /></a>
                             </li>
                             <li>
-                                <a class="payment-img" href="#"><img src="images/interac.png" alt="Interac" /></a>
+                                <a class="payment-img" href="#"><img loading="lazy" decoding="async" src="images/interac.png" alt="Interac" /></a>
                             </li>
                         </ul>
                     </div>
@@ -132,7 +132,7 @@
             <div class="col-md-6 text-right">
                 <p>
                     Designed &amp; Hosted By :
-                    <a href="https://www.mapleleapgroups.com" title="MapleLeapGroups"><img src="images/maple.jpg"
+                    <a href="https://www.mapleleapgroups.com" title="MapleLeapGroups"><img loading="lazy" decoding="async" src="images/maple.jpg"
                             alt="maple-logo" /></a>
                 </p>
             </div>

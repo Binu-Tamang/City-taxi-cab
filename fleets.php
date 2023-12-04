@@ -43,8 +43,9 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car1.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car1.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">Mercedes-Benz E-Class</a></h2>
                                 <p>
@@ -65,9 +66,8 @@
                                         Air Condition
                                     </li>
                                 </ul>
-
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=Mercedes-Benz E-Class" class="btn btn-primary py-2 mr-1">View Details</a>
+                                <a href="car-details.php?title=Mercedes-Benz E-Class"
+                                    class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -75,8 +75,9 @@
 
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car2.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car2.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">BMW X5</a></h2>
 
@@ -97,9 +98,8 @@
                                         <span><i class="fa-solid fa-temperature-arrow-up"></i></span>
                                         Air Condition
                                     </li>
-                                </ul>
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View Details</a>
+                                </ul> <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View
+                                    Details</a>
                                 </p>
                             </div>
                         </div>
@@ -107,8 +107,9 @@
 
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car3.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car3.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">Audi A6</a></h2>
 
@@ -129,9 +130,8 @@
                                         <span><i class="fa-solid fa-temperature-arrow-up"></i></span>
                                         Air Condition
                                     </li>
-                                </ul>
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=Audi A6" class="btn btn-primary py-2 mr-1">View Details</a>
+                                </ul> <a href="car-details.php?title=Audi A6" class="btn btn-primary py-2 mr-1">View
+                                    Details</a>
                                 </p>
                             </div>
                         </div>
@@ -139,8 +139,9 @@
 
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car4.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car4.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">Mercedes-Benz A-Class</a></h2>
                                 <p>
@@ -160,9 +161,8 @@
                                         <span><i class="fa-solid fa-temperature-arrow-up"></i></span>
                                         Air Condition
                                     </li>
-                                </ul>
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
+                                </ul> <a href="car-details.php?title=Mercedes-Benz A-Class"
+                                    class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
@@ -170,8 +170,9 @@
 
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car1.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car1.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">Mercedes-Benz E-Class</a></h2>
                                 <p>
@@ -192,17 +193,18 @@
                                         Air Condition
                                     </li>
                                 </ul>
-
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=Mercedes-Benz E-Class" class="btn btn-primary py-2 mr-1">View Details</a>
+                                <a href="car-details.php?title=Mercedes-Benz E-Class"
+                                    class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car2.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car2.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">BMW X5</a></h2>
 
@@ -223,9 +225,8 @@
                                         <span><i class="fa-solid fa-temperature-arrow-up"></i></span>
                                         Air Condition
                                     </li>
-                                </ul>
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View Details</a>
+                                </ul> <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View
+                                    Details</a>
                                 </p>
                             </div>
                         </div>
@@ -233,8 +234,41 @@
 
                     <div class="col-md-4">
                         <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car4.jpg)"></div>
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car3.jpg" alt="car">
+                            </div>
+                            <div class="text">
+                                <h2 class="mb-0"><a href="#">Audi A6</a></h2>
+
+                                <p>
+                                    Lorem ipsum dolor sit do amet, consectetur, adipiscing
+                                    elit, sed
+                                </p>
+
+                                <ul class="fleets-icon-tags">
+                                    <li>
+                                        <span><i class="fa-solid fa-car-rear"></i></span> 4seats
+                                    </li>
+                                    <li>
+                                        <span><i class="fa-solid fa-map-location-dot"></i></span>
+                                        GPS Track
+                                    </li>
+                                    <li>
+                                        <span><i class="fa-solid fa-temperature-arrow-up"></i></span>
+                                        Air Condition
+                                    </li>
+                                </ul> <a href="car-details.php?title=Audi A6" class="btn btn-primary py-2 mr-1">View
+                                    Details</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="car-wrap rounded ftco-animate">
+                            <div class="img rounded d-flex align-items-end">
+                                <img src="images/car4.jpg" alt="car">
+                            </div>
                             <div class="text">
                                 <h2 class="mb-0"><a href="#">Mercedes-Benz A-Class</a></h2>
                                 <p>
@@ -255,39 +289,9 @@
                                         Air Condition
                                     </li>
                                 </ul>
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4">
-                        <div class="car-wrap rounded ftco-animate">
-                            <div class="img rounded d-flex align-items-end"
-                                style="background-image: url(images/car4.jpg)"></div>
-                            <div class="text">
-                                <h2 class="mb-0"><a href="#">Mercedes-Benz A-Class</a></h2>
                                 <p>
-                                    Lorem ipsum dolor sit do amet, consectetur, adipiscing
-                                    elit, sed
-                                </p>
-
-                                <ul class="fleets-icon-tags">
-                                    <li>
-                                        <span><i class="fa-solid fa-car-rear"></i></span> 4seats
-                                    </li>
-                                    <li>
-                                        <span><i class="fa-solid fa-map-location-dot"></i></span>
-                                        GPS Track
-                                    </li>
-                                    <li>
-                                        <span><i class="fa-solid fa-temperature-arrow-up"></i></span>
-                                        Air Condition
-                                    </li>
-                                </ul>
-                                <p class="mt-2 mb-0 justify-content-center">
-                                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
+                                    <a href="car-details.php?title=Mercedes-Benz A-Class"
+                                        class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>

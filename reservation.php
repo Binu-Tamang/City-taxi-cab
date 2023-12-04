@@ -941,6 +941,8 @@
                                 <i class="fa fa-long-arrow-alt-right"></i>
                                 <input type="submit" value="Send Message">
                             </div>
+
+                            
                         </div>
                     </form>
                 </div>

@@ -42,7 +42,7 @@
         <div class="col-lg-4 d-lg-block">
           <div class="contact-details-box">
             <strong>AIRDRIE CITY TAXI</strong>
-            <p class="good-man-moving-p aos-init aos-animate">"At Airdrie City Taxi we provide a safe and friendly
+            <p>"At Airdrie City Taxi we provide a safe and friendly
               environment to the passenger"
             </p>
             <ul class="contact-short-details">
@@ -59,7 +59,7 @@
             data-wow-delay="0.6s">
             <div class="contact-box-wrap">
               <h1 class="text-black mb-4">Contact Us</h1>
-              <p class="good-man-moving-p aos-init aos-animate" style="color: #000 !important;">Fill
+              <p style="color: #000 !important;">Fill
                 in the form below to send us a message or to ask about any queries you might have.
               </p>
               <form id="contactForm " action="php/contact-form.php" method="post">

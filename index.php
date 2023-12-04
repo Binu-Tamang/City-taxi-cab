@@ -147,7 +147,9 @@
           <div class="carousel-car owl-carousel">
             <div class="item">
               <div class="car-wrap rounded ftco-animate">
-                <div class="img rounded d-flex align-items-end" style="background-image: url(images/car1.jpg)"></div>
+                <div class="img rounded d-flex align-items-end">
+                  <img loading="lazy" decoding="async" src="images/car1.jpg" alt="car">
+                </div>
                 <div class="text">
                   <h2 class="mb-0"><a href="#">Mercedes-Benz E-Class</a></h2>
                   <p>
@@ -169,15 +171,18 @@
                     </li>
                   </ul>
 
-                  <p class="mt-2 mb-0 justify-content-center">
-                    <a href="#" class="btn btn-primary py-2 mr-1">View Details</a>
+                  <p>
+                    <a href="car-details.php?title=Mercedes-Benz E-Class" class="btn btn-primary py-2 mr-1">View
+                      Details</a>
                   </p>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="car-wrap rounded ftco-animate">
-                <div class="img rounded d-flex align-items-end" style="background-image: url(images/car2.jpg)"></div>
+                <div class="img rounded d-flex align-items-end">
+                  <img loading="lazy" decoding="async" src="images/car2.jpg" alt="car">
+                </div>
                 <div class="text">
                   <h2 class="mb-0"><a href="#">BMW X5</a></h2>
 
@@ -199,15 +204,17 @@
                       Air Condition
                     </li>
                   </ul>
-                  <p class="mt-2 mb-0 justify-content-center">
-                    <a href="#" class="btn btn-primary py-2 mr-1">View Details</a>
+                  <p>
+                    <a href="car-details.php?title=BMW X5" class="btn btn-primary py-2 mr-1">View Details</a>
                   </p>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="car-wrap rounded ftco-animate">
-                <div class="img rounded d-flex align-items-end" style="background-image: url(images/car3.jpg)"></div>
+                <div class="img rounded d-flex align-items-end">
+                  <img loading="lazy" decoding="async" src="images/car3.jpg" alt="car">
+                </div>
                 <div class="text">
                   <h2 class="mb-0"><a href="#">Audi A6</a></h2>
 
@@ -229,15 +236,17 @@
                       Air Condition
                     </li>
                   </ul>
-                  <p class="mt-2 mb-0 justify-content-center">
-                    <a href="#" class="btn btn-primary py-2 mr-1">View Details</a>
+                  <p>
+                    <a href="car-details.php?title=Audi A6" class="btn btn-primary py-2 mr-1">View Details</a>
                   </p>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="car-wrap rounded ftco-animate">
-                <div class="img rounded d-flex align-items-end" style="background-image: url(images/car4.jpg)"></div>
+                <div class="img rounded d-flex align-items-end">
+                  <img loading="lazy" decoding="async" src="images/car4.jpg" alt="car">
+                </div>
                 <div class="text">
                   <h2 class="mb-0"><a href="#">Mercedes-Benz A-Class</a></h2>
                   <p>
@@ -258,15 +267,16 @@
                       Air Condition
                     </li>
                   </ul>
-                  <p class="mt-2 mb-0 justify-content-center">
-                    <a href="#" class="btn btn-primary py-2 mr-1">View Details</a>
+                  <p>
+                    <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View
+                      Details</a>
                   </p>
                 </div>
               </div>
             </div>
           </div>
           <div class="btn-view">
-            <a href="#" class="btn btn-primary py-2 mr-1 view-more-btn">View More +</a>
+            <a href="fleets.php" class="btn btn-primary py-2 mr-1 view-more-btn">View More +</a>
           </div>
         </div>
       </div>
@@ -326,9 +336,9 @@
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <i class="fa-solid fa-taxi"></i>
               </div>
-              <div class="text w-100">
+              <div class="text w-100 serviceDes">
                 <h3 class="heading mb-2">Taxi Services</h3>
-                <p class="serviceDes">
+                <p>
                   Providing on-demand point-to-point transportation within the
                   city limits and surrounding area.
                 </p>
@@ -345,9 +355,9 @@
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <i class="fa-solid fa-plane-departure"></i>
               </div>
-              <div class="text w-100">
+              <div class="text w-100 serviceDes">
                 <h3 class="heading mb-2">Airport Transportation</h3>
-                <p class="serviceDes">
+                <p>
                   Offering reliable and timely pick-up and drop-off services
                   to and from airports. Offering reliable and timely pick-up
                   and drop-off services to and from airports.
@@ -365,9 +375,9 @@
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <i class="fa-solid fa-taxi"></i>
               </div>
-              <div class="text w-100">
+              <div class="text w-100 serviceDes">
                 <h3 class="heading mb-2">Executive Travel</h3>
-                <p class="serviceDes">
+                <p>
                   Exclusive transportation services catering to executives and
                   celebrities, featuring branded luxury vehicles for a premium
                   experience.
@@ -385,9 +395,9 @@
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <i class="fa-solid fa-calendar-days"></i>
               </div>
-              <div class="text w-100">
+              <div class="text w-100 serviceDes">
                 <h3 class="heading mb-2">Appointment Pick and Drop</h3>
-                <p class="serviceDes">
+                <p>
                   Ensuring timely and reliable transportation for individuals
                   with scheduled appointments, providing convenience and
                   punctuality.
@@ -405,9 +415,9 @@
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <i class="fa-solid fa-school"></i>
               </div>
-              <div class="text w-100">
+              <div class="text w-100 serviceDes">
                 <h3 class="heading mb-2">School Run</h3>
-                <p class="serviceDes">
+                <p>
                   Safe and reliable daily transportation services for
                   students, ensuring punctual pick-up and drop-off for
                   school-related activities.
@@ -425,9 +435,9 @@
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <i class="fa-solid fa-file-invoice"></i>
               </div>
-              <div class="text w-100">
+              <div class="text w-100 serviceDes">
                 <h3 class="heading mb-2">Corporate Accounts</h3>
-                <p class="serviceDes">
+                <p>
                   Tailored transportation solutions for businesses, ensuring
                   efficient and seamless travel for employees.
                 </p>
@@ -440,9 +450,9 @@
       <!-- <div class="option-serv text-center">
           <a href="#">+ VIEW MORE</a>
         </div> -->
-        <div class="btn-view">
-          <a href="service-main.php" class="btn btn-primary py-2 mr-1 view-more-btn">View More +</a>
-        </div>
+      <div class="btn-view">
+        <a href="service-main.php" class="btn btn-primary py-2 mr-1 view-more-btn">View More +</a>
+      </div>
     </div>
   </section>
   <!--------------booking html starts-------- -->
@@ -450,17 +460,17 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8">
-          <div class="booked-content">
+          <div class="booked-content all-p">
             <h3 class="welcome-heading" data-aos="fade-down">
               Call Us Now <span>Book Your Cab </span>For Your Next Ride!
             </h3>
-            <p class="all-p" data-aos="fade-right">
+            <p data-aos="fade-right">
               Life is a journey, and sometimes you need a cab to take you
               places you've never been before.
             </p>
             <div class="cta-call" data-aos="fade-up">
               <i class="fa-solid fa-phone-volume"></i>
-              <p class="all-p">
+              <p>
                 <span>Call Us Now</span><a href="tel:403-351-2200">403-351-2200</a>
               </p>
             </div>
@@ -485,7 +495,7 @@
             </video> -->
           </div>
         </div>
-        
+
         <div class="col-md-5">
           <div class="facebook-link">
             <iframe

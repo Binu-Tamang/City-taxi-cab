@@ -98,7 +98,7 @@
                             </p>
                         </div>
 
-                        <p class="mt-2 mb-0 justify-content-center">
+                        <p>
                             <a href="#" class="btn btn-primary py-2 mr-1">Book Now</a>
                         </p>
                     </div>

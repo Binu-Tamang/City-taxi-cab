@@ -49,9 +49,9 @@
                                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <i class="fa-solid fa-taxi"></i>
                             </div>
-                            <div class="text w-100">
+                            <div class="text w-100 serviceDes">
                                 <h3 class="heading mb-2">Taxi Services</h3>
-                                <p class="serviceDes">
+                                <p>
                                     Providing on-demand point-to-point transportation within the
                                     city limits and surrounding area.
                                 </p>
@@ -68,9 +68,9 @@
                                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <i class="fa-solid fa-plane-departure"></i>
                             </div>
-                            <div class="text w-100">
+                            <div class="text w-100 serviceDes">
                                 <h3 class="heading mb-2">Airport Transportation</h3>
-                                <p class="serviceDes">
+                                <p>
                                     Offering reliable and timely pick-up and drop-off services
                                     to and from airports. Offering reliable and timely pick-up
                                     and drop-off services to and from airports.
@@ -88,9 +88,9 @@
                                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <i class="fa-solid fa-taxi"></i>
                             </div>
-                            <div class="text w-100">
+                            <div class="text w-100 serviceDes">
                                 <h3 class="heading mb-2">Executive Travel</h3>
-                                <p class="serviceDes">
+                                <p>
                                     Exclusive transportation services catering to executives and
                                     celebrities, featuring branded luxury vehicles for a premium
                                     experience.
@@ -108,9 +108,9 @@
                                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <i class="fa-solid fa-calendar-days"></i>
                             </div>
-                            <div class="text w-100">
+                            <div class="text w-100 serviceDes">
                                 <h3 class="heading mb-2">Appointment Pick and Drop</h3>
-                                <p class="serviceDes">
+                                <p>
                                     Ensuring timely and reliable transportation for individuals
                                     with scheduled appointments, providing convenience and
                                     punctuality.
@@ -128,9 +128,9 @@
                                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <i class="fa-solid fa-school"></i>
                             </div>
-                            <div class="text w-100">
+                            <div class="text w-100 serviceDes">
                                 <h3 class="heading mb-2">School Run</h3>
-                                <p class="serviceDes">
+                                <p>
                                     Safe and reliable daily transportation services for
                                     students, ensuring punctual pick-up and drop-off for
                                     school-related activities.
@@ -148,9 +148,9 @@
                                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <i class="fa-solid fa-file-invoice"></i>
                             </div>
-                            <div class="text w-100">
+                            <div class="text w-100 serviceDes">
                                 <h3 class="heading mb-2">Corporate Accounts</h3>
-                                <p class="serviceDes">
+                                <p>
                                     Tailored transportation solutions for businesses, ensuring
                                     efficient and seamless travel for employees.
                                 </p>
@@ -172,13 +172,13 @@
                         <h3 class="welcome-heading" data-aos="fade-down">
                             Call Us Now <span>Book Your Cab </span>For Your Next Ride!
                         </h3>
-                        <p class="all-p" data-aos="fade-right">
+                        <p>
                             Life is a journey, and sometimes you need a cab to take you
                             places you've never been before.
                         </p>
                         <div class="cta-call" data-aos="fade-up">
                             <i class="fa-solid fa-phone-volume"></i>
-                            <p class="all-p">
+                            <p>
                                 <span>Call Us Now</span><a href="tel:403-351-2200">403-351-2200</a>
                             </p>
                         </div>

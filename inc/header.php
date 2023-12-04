@@ -1,7 +1,7 @@
 <header>
     <!-- Topbar Start -->
     <div class="bgwrap">
-        <div id="top_header" class="row">
+        <div id="top_header" >
             <div class="container">
                 <div class="gx-0 col-lg-12 header-top-up">
                     <div class="d-lg-flex justify-content-end py-2">
@@ -28,12 +28,12 @@
                 </div>
             </div>
         </div>
-        <div id="second_header" class="row">
+        <div id="second_header" >
             <div class="container">
                 <div class="gx-0 col-lg-12">
                     <nav class="navbar navbar-expand-lg ftco_navbar" id="ftco-navbar">
                         <div class="logo-wrap">
-                            <img src="images/logo.png" alt="logo" />
+                            <a href="index.php"><img src="images/logo.png" alt="logo" /></a>
                         </div>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                             aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
