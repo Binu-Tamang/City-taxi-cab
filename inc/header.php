@@ -1,7 +1,7 @@
 <header>
     <!-- Topbar Start -->
     <div class="bgwrap">
-        <div id="top_header" >
+        <div id="top_header">
             <div class="container">
                 <div class="gx-0 col-lg-12 header-top-up">
                     <div class="d-lg-flex justify-content-end py-2">
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div id="second_header" >
+        <div id="second_header">
             <div class="container">
                 <div class="gx-0 col-lg-12">
                     <nav class="navbar navbar-expand-lg ftco_navbar" id="ftco-navbar">

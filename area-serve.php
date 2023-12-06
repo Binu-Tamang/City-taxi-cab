@@ -7,15 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap"
         rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+    <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        type="text/css" />
+
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/owl.theme.default.min.css" />
     <link rel="stylesheet" href="css/magnific-popup.css" />
-    <!-- Fontawesome cdn -->
-    <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-        type="text/css" />
     <link rel="stylesheet" href="css/aos.css" />
     <link rel="stylesheet" href="css/ionicons.min.css" />
     <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
@@ -46,75 +45,103 @@
                 <div class="container">
                     <div class="row g-2">
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Calgary Skyview">
                             <img class="serve-img" src="images/random/1.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Dallas"><i class="fa-solid fa-location-dot"></i> Dallas</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Calgary Skyview"><i
+                                    class="fa-solid fa-location-dot"></i> Calgary Skyview</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=CrossIron Mills">
                             <img class="serve-img" src="images/random/2.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=DFW"><i class="fa-solid fa-location-dot"></i> DFW</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=CrossIron Mills"><i
+                                    class="fa-solid fa-location-dot"></i> CrossIron Mills</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Balzac alberta">
                             <img class="serve-img" src="images/random/3.png" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Fort Worth"><i class="fa-solid fa-location-dot"></i> Fort Worth</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Balzac alberta"><i
+                                    class="fa-solid fa-location-dot"></i> Balzac alberta</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Rocky view  alberta">
                             <img class="serve-img" src="images/random/4.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Frisco"><i class="fa-solid fa-location-dot"></i> Frisco</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Rocky view  alberta"><i
+                                    class="fa-solid fa-location-dot"></i> Rocky view  alberta</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Country Hills">
                             <img class="serve-img" src="images/random/5.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Richardson"><i class="fa-solid fa-location-dot"></i> Richardson</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Country Hills"><i
+                                    class="fa-solid fa-location-dot"></i> Country Hills</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Cochrane Alberta">
                             <img class="serve-img" src="images/random/6.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Garland"><i class="fa-solid fa-location-dot"></i> Garland</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Cochrane Alberta"><i
+                                    class="fa-solid fa-location-dot"></i> Cochrane Alberta</a>
                         </div>
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=YYC Airport ">
                             <img class="serve-img" src="images/random/1.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Grand Prairie"><i class="fa-solid fa-location-dot"></i> Grand Prairie</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=YYC Airport "><i
+                                    class="fa-solid fa-location-dot"></i> YYC Airport </a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Alberta">
                             <img class="serve-img" src="images/random/2.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Denton"><i class="fa-solid fa-location-dot"></i> Denton</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Alberta"><i
+                                    class="fa-solid fa-location-dot"></i> Alberta</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Sky View">
                             <img class="serve-img" src="images/random/3.png" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Grapevine"><i class="fa-solid fa-location-dot"></i> Grapevine</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Sky View"><i
+                                    class="fa-solid fa-location-dot"></i> Sky View</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Airdrie">
                             <img class="serve-img" src="images/random/4.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Mckinney"><i class="fa-solid fa-location-dot"></i> Mckinney</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Airdrie"><i
+                                    class="fa-solid fa-location-dot"></i> Airdrie</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Crossiron mill">
                             <img class="serve-img" src="images/random/5.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Kellar"><i class="fa-solid fa-location-dot"></i> Kellar</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Crossiron mill"><i
+                                    class="fa-solid fa-location-dot"></i> Crossiron mill</a>
                         </div>
 
                         <div class="col-md-3 col-6 col-xs-12 area-wrap-box">
+                            <a href="area-details.php?title=Neighbourhood in Calgary">
                             <img class="serve-img" src="images/random/6.jpg" alt="area">
-                            <a class="serve-a" href="area-details.php?title=Lewisville"><i class="fa-solid fa-location-dot"></i> Lewisville</a>
+                            </a>
+                            <a class="serve-a" href="area-details.php?title=Neighbourhood in Calgary"><i
+                                    class="fa-solid fa-location-dot"></i> Neighbourhood in Calgary</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="map pb-4 my-5">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2497.3478418880118!2d-114.03743832339534!3d51.24950457175593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53715e361db3a6c9%3A0x7bd2a94ea669ec27!2sWindbury%20Crescent%2C%20Airdrie%2C%20AB%2C%20Canada!5e0!3m2!1sen!2snp!4v1700468897242!5m2!1sen!2snp"
-                        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </iframe>
-                </div>
-            </div>
+
         </div>
     </section>
     <?php

@@ -6,23 +6,24 @@
     </button>
 </div>
 <!-- ====scroll up to btn -->
+
 <footer class="ftco-footer ftco-bg-dark ftco-section">
+
     <div class="container">
         <div class="row mb-0">
-            <div class="col-md">
+            <div class="col-xl-3 col-md-6">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">
-                        <div class=" p-2 footer-logo">
-                            <img loading="lazy" decoding="async" src="images/footer-logo.jpg" alt="logo" />
-                        </div>
-                    </h2>
+                    <div class="  footer-logo mb-4">
+                        <img loading="lazy" decoding="async" src="images/footer-logo.jpg" alt="logo" />
+                    </div>
                     <p>
                         Our business strives to provide the customers with quality taxi
                         cab service in Airdire with superior service and guaranteed
                         satisfaction. Call Us Todays!
                     </p>
                     <div>
-                        <img loading="lazy" decoding="async" id="myImg" class="img-fluid" src="images/visiting-card.jpg" />
+                        <img loading="lazy" decoding="async" id="myImg" class="img-fluid"
+                            src="images/visiting-card.jpg" />
                         <!-- <span class="hint">Click on image and see effect</span> -->
                         <div id="myModal" class="modal">
                             <span class="close"></span>
@@ -32,18 +33,18 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md">
+            <div class="col-xl-3 col-md-6 pt-4">
                 <div class="ftco-footer-widget mb-4 ml-md-5">
                     <h2 class="ftco-heading-2">Quick Links</h2>
                     <ul class="list-unstyled">
                         <li>
-                            <a href="about.html" class="py-2 d-block">About Us</a>
+                            <a href="about-us.php" class="py-2 d-block">About Us</a>
                         </li>
                         <li>
-                            <a href="services.html" class="py-2 d-block">Services</a>
+                            <a href="service-main.php" class="py-2 d-block">Services</a>
                         </li>
                         <li>
-                            <a href="car.html" class="py-2 d-block">Fleets</a>
+                            <a href="fleets.php" class="py-2 d-block">Fleets</a>
                         </li>
                         <li>
                             <a href="blog.html" class="py-2 d-block">Blogs</a>
@@ -51,7 +52,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md">
+            <div class="col-xl-3 col-md-6 pt-4">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Customer Support</h2>
                     <ul class="list-unstyled">
@@ -79,14 +80,14 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md">
+            <div class="col-xl-3 col-md-6 pt-4">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Have a Questions?</h2>
                     <div class="block-23 mb-3">
-                        <ul class="footer-ul">
+                        <ul class="footer-ul list-unstyled">
                             <li>
                                 <span class="icon icon-map-marker"></span>
-                                <span class="text-white">1330 Prairie Springs Pk SW Airdrie AB T4B 0E5</span>
+                                <span>1330 Prairie Springs Pk SW Airdrie AB T4B 0E5</span>
                             </li>
                             <li>
                                 <span class="icon icon-phone"></span>
@@ -108,15 +109,16 @@
                     <div class="pay-cards">
                         <ul>
                             <li>
-                                <a class="payment-img" href="#"><img loading="lazy" decoding="async" src="images/mastercard.png" alt="mastercard"
-                                        style="width: 53px" /></a>
+                                <a class="payment-img" href="#"><img loading="lazy" decoding="async"
+                                        src="images/mastercard.png" alt="mastercard" style="width: 53px" /></a>
                             </li>
                             <li>
-                                <a class="payment-img" href="#"><img loading="lazy" decoding="async" src="images/visa.png" alt="visacard"
-                                        style="width: 48px" /></a>
+                                <a class="payment-img" href="#"><img loading="lazy" decoding="async"
+                                        src="images/visa.png" alt="visacard" style="width: 48px" /></a>
                             </li>
                             <li>
-                                <a class="payment-img" href="#"><img loading="lazy" decoding="async" src="images/interac.png" alt="Interac" /></a>
+                                <a class="payment-img" href="#"><img loading="lazy" decoding="async"
+                                        src="images/interac.png" alt="Interac" /></a>
                             </li>
                         </ul>
                     </div>
@@ -129,12 +131,10 @@
             <div class="col-md-6">
                 <p>All Rights Reserved 2023 Airdrie City Taxi</p>
             </div>
-            <div class="col-md-6 text-right">
-                <p>
-                    Designed &amp; Hosted By :
-                    <a href="https://www.mapleleapgroups.com" title="MapleLeapGroups"><img loading="lazy" decoding="async" src="images/maple.jpg"
-                            alt="maple-logo" /></a>
-                </p>
+            <div class="col-md-6 text-right ">
+                Designed &amp; Hosted By :
+                <a href="https://www.mapleleapgroups.com" title="MapleLeapGroups"><img loading="lazy" decoding="async"
+                        src="images/maple.jpg" alt="maple-logo" /></a>
             </div>
         </div>
     </div>
@@ -151,7 +151,7 @@
 <!-- =======call button======= -->
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery-migrate-3.0.1.min.js"></script>
-<script src="js/popper.min.js"></script>
+<!-- <script src="js/popper.min.js"></script> -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.easing.1.3.js"></script>
 <script src="js/jquery.waypoints.min.js"></script>

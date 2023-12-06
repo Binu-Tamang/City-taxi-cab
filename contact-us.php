@@ -7,15 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap"
     rel="stylesheet" />
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+  <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    type="text/css" />
+
   <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
   <link rel="stylesheet" href="css/animate.css" />
   <link rel="stylesheet" href="css/owl.carousel.min.css" />
   <link rel="stylesheet" href="css/owl.theme.default.min.css" />
   <link rel="stylesheet" href="css/magnific-popup.css" />
-  <!-- Fontawesome cdn -->
-  <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    type="text/css" />
   <link rel="stylesheet" href="css/aos.css" />
   <link rel="stylesheet" href="css/ionicons.min.css" />
   <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
@@ -46,11 +45,13 @@
               environment to the passenger"
             </p>
             <ul class="contact-short-details">
-              <li><a aria-label="call us now" href="tel:403-351-2200"><i class="fa-solid fa-phone"></i> 403-351-2200</a></li>
-              <li><a aria-label="send us mail" href="mail:info@www.airdriecitytaxi.ca"><i class="fa-regular fa-envelope"></i> info@www.airdriecitytaxi.ca</a></li>
-              <li><a aria-label="our location" href="#"><i class="fa-solid fa-location-dot"></i> 2099 Windbury Cres SW Airdrie, AB</a></li>
+              <li><a aria-label="call us now" href="tel:403-351-2200"><i class="fa-solid fa-phone"></i> 403-351-2200</a>
+              </li>
+              <li><a aria-label="send us mail" href="mail:info@www.airdriecitytaxi.ca"><i
+                    class="fa-regular fa-envelope"></i> info@www.airdriecitytaxi.ca</a></li>
+              <li><a aria-label="our location" href="#"><i class="fa-solid fa-location-dot"></i> 2099 Windbury Cres SW
+                  Airdrie, AB</a></li>
             </ul>
-
             <img src="images/car4.jpg" alt="moving men">
           </div>
         </div>
@@ -69,7 +70,6 @@
                       placeholder="Your First Name" style="height: 55px;">
                     <small id="nameError" class="form-text text-danger"></small>
                   </div>
-
                   <div class="col-12 col-lg-6">
                     <input type="text" id="name" name="name" class="form-control border-2" required
                       placeholder="Your Last Name" style="height: 55px;">
@@ -107,14 +107,13 @@
       </div>
     </div>
   </div>
-  <!-- good men location map -->
+  <!-- airdire city Taxi location map -->
   <div class="container">
     <div class="map pb-4">
       <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2497.3478418880118!2d-114.03743832339534!3d51.24950457175593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53715e361db3a6c9%3A0x7bd2a94ea669ec27!2sWindbury%20Crescent%2C%20Airdrie%2C%20AB%2C%20Canada!5e0!3m2!1sen!2snp!4v1700468897242!5m2!1sen!2snp"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2497.3478418880118!2d-114.03743832339534!3d51.24950457175593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53715e361db3a6c9%3A0x7bd2a94ea669ec27!2sWindbury%20Crescent%2C%20Airdrie%2C%20AB%2C%20Canada!5e0!3m2!1sen!2snp!4v1700468897242!5m2!1sen!2snp"
         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </iframe>
     </div>
   </div>
 

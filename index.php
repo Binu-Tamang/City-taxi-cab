@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap"
     rel="stylesheet" />
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+  <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" /> -->
   <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
   <link rel="stylesheet" href="css/animate.css" />
   <link rel="stylesheet" href="css/owl.carousel.min.css" />
@@ -41,7 +41,8 @@
           width: 100%;
           height: 85%;
           object-fit: cover;
-        ">
+          " preload="none" poster="images/video-thumbnail.webp">
+
       <source src="images/video-banner.mp4" type="video/mp4" />
     </video>
     <div class="overlay"></div>
@@ -50,7 +51,7 @@
         <div class="col-lg-8 ftco-animate">
           <div class="text w-100 text-center mb-md-5 pb-md-5">
             <h1 class="mb-4">Welcome to <span>AIRDRIE CITY TAXI</span></h1>
-            <p style="font-size: 18px">
+            <p>
               Our executive fleet, featuring the latest models from Mercedes,
               BMW, and Audi, ensures a luxurious travel experience. Flames Cab
               is more than just a taxi service; it's a commitment to redefine
@@ -74,11 +75,13 @@
             the passenger. Regardless of the fact whether you are want to
             catch a flight in time or want to attend an important event or
             meeting, our licensed Airdrie taxi service is the most affordable
-            choice for you. <br />
+            choice for you. </p>
+          <p>
             By hiring our services you get a lot of benefits, for instance, we
             do not let your time get wasted in parking lots or on the roadside
             waiting for your taxi to arrive. We reach you in the shortest time
-            possible i.e. usually within 10 minutes. <br />We reach you in the
+            possible i.e. usually within 10 minutes. </p>
+          <p>We reach you in the
             shortest time possible i.e. usually within 10 minutes.
           </p>
           <ul class="welcome-taxi-ul">
@@ -286,7 +289,7 @@
   <section class="main-three-box">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-lg-4">
           <div class="main-box">
             <h3>WCB Board</h3>
             <i class="fa-solid fa-circle-dollar-to-slot"></i>
@@ -296,7 +299,7 @@
             </p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-lg-4">
           <div class="main-box">
             <h3>Always on Time</h3>
             <i class="fa-solid fa-taxi"></i>
@@ -306,7 +309,7 @@
             </p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-lg-4">
           <div class="main-box">
             <h3>Senior Discount</h3>
             <i class="fa-solid fa-house-chimney"></i>
@@ -329,7 +332,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-4 boxcol-box">
+        <div class="col-md-6 col-lg-4 boxcol-box">
           <div class="inner-boxcol-box">
             <div class="services services-2 w-100 text-center">
               <div class="icon d-flex align-items-center justify-content-center" data-aos="flip-left"
@@ -348,7 +351,7 @@
           </div>
         </div>
 
-        <div class="col-md-4 boxcol-box">
+        <div class="col-md-6 col-lg-4 boxcol-box">
           <div class="inner-boxcol-box">
             <div class="services services-2 w-100 text-center">
               <div class="icon d-flex align-items-center justify-content-center" data-aos="flip-left"
@@ -368,7 +371,7 @@
           </div>
         </div>
 
-        <div class="col-md-4 boxcol-box">
+        <div class="col-md-6 col-lg-4 boxcol-box">
           <div class="inner-boxcol-box">
             <div class="services services-2 w-100 text-center">
               <div class="icon d-flex align-items-center justify-content-center" data-aos="flip-left"
@@ -388,7 +391,7 @@
           </div>
         </div>
 
-        <div class="col-md-4 boxcol-box">
+        <div class="col-md-6 col-lg-4 boxcol-box">
           <div class="inner-boxcol-box">
             <div class="services services-2 w-100 text-center">
               <div class="icon d-flex align-items-center justify-content-center" data-aos="flip-left"
@@ -408,7 +411,7 @@
           </div>
         </div>
 
-        <div class="col-md-4 boxcol-box">
+        <div class="col-md-6 col-lg-4 boxcol-box">
           <div class="inner-boxcol-box">
             <div class="services services-2 w-100 text-center">
               <div class="icon d-flex align-items-center justify-content-center" data-aos="flip-left"
@@ -428,7 +431,7 @@
           </div>
         </div>
 
-        <div class="col-md-4 boxcol-box">
+        <div class="col-md-6 col-lg-4 boxcol-box">
           <div class="inner-boxcol-box">
             <div class="services services-2 w-100 text-center">
               <div class="icon d-flex align-items-center justify-content-center" data-aos="flip-left"
@@ -498,7 +501,7 @@
 
         <div class="col-md-5">
           <div class="facebook-link">
-            <iframe
+            <iframe loading="lazy"
               src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAirdrieCityTaxi%2F&tabs=timeline&width=400&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
               width="400" height="400" style="border: none; overflow: hidden" scrolling="no" frameborder="0"
               allowfullscreen="true"
@@ -506,7 +509,6 @@
           </div>
         </div>
       </div>
-    </div>
   </section>
   <!-- adding facebook video and link -->
 

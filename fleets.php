@@ -7,15 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap"
         rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+    <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        type="text/css" />
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/owl.theme.default.min.css" />
     <link rel="stylesheet" href="css/magnific-popup.css" />
-    <!-- Fontawesome cdn -->
-    <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-        type="text/css" />
     <link rel="stylesheet" href="css/aos.css" />
     <link rel="stylesheet" href="css/ionicons.min.css" />
     <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
@@ -66,7 +64,7 @@
                                         Air Condition
                                     </li>
                                 </ul>
-                                <a href="car-details.php?title=Mercedes-Benz E-Class"
+                                <a href="car-details.php?title=Mercedes-Benz A-Class"
                                     class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
@@ -290,8 +288,7 @@
                                     </li>
                                 </ul>
                                 <p>
-                                    <a href="car-details.php?title=Mercedes-Benz A-Class"
-                                        class="btn btn-primary py-2 mr-1">View Details</a>
+                                <a href="car-details.php?title=Mercedes-Benz A-Class" class="btn btn-primary py-2 mr-1">View Details</a>
                                 </p>
                             </div>
                         </div>

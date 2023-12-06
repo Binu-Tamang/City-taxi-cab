@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap"
         rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+    <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        type="text/css" />
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/owl.theme.default.min.css" />
     <link rel="stylesheet" href="css/magnific-popup.css" />
     <!-- Fontawesome cdn -->
-    <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-        type="text/css" />
+    <!-- <link media="all" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" type="text/css" /> -->
     <link rel="stylesheet" href="css/aos.css" />
     <link rel="stylesheet" href="css/ionicons.min.css" />
     <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
@@ -58,7 +58,8 @@
                                 24 x 7 with comfortable late model carsand vans. We provide door to door Pick up and
                                 Drop
                                 off
-                                service in Surrounding Areas. <br> We complement our business with transportation
+                                service in Surrounding Areas. </p>
+                            <p>We complement our business with transportation
                                 service to
                                 give you quality, comfortable, reliable services at affordable costs</p>
 
@@ -114,7 +115,7 @@
             <p>Book your ride online for convenience and ease, or speak with one of our friendly Customer Care
                 Specialists to assist you in securing reliable transportation.</p>
             <strong class="mt-2 mb-0 justify-content-center">
-                <a href="#" class="btn btn-primary py-2 mr-1">Make A Reservation</a>
+                <a href="fleets.php" class="btn btn-primary py-2 mr-1">Make A Reservation</a>
             </strong>
         </div>
 
